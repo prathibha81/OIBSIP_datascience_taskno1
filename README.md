@@ -263,7 +263,7 @@ jupyter notebook iris_classification.ipynb
 
 ---
 
-## 📌 Author
+##  Author
 
 Ummalla Prathibha
 Data Science Intern
